@@ -1,6 +1,6 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/hasrat-ali">
 
 ![](https://github.com/hasrat-ali/hasrat-ali-backend/blob/master/generated/overview.svg)
 ![](https://github.com/hasrat-ali/hasrat-ali-backend/blob/master/generated/languages.svg)
