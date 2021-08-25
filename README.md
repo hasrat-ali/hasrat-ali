@@ -13,7 +13,7 @@
 
 <h3 align="left">My GitHub stats:</h3>
 
-![](https://github.com/hasrat-ali/hasrat-ali-backend/blob/master/generated/overview.svg)
-![](https://github.com/hasrat-ali/hasrat-ali-backend/blob/master/generated/languages.svg)
+![](https://github.com/hasrat-ali/hasrat-ali/blob/master/generated/overview.svg)
+![](https://github.com/hasrat-ali/hasrat-ali/blob/master/generated/languages.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasrat-ali&" alt="hasrat-ali" /></p>
